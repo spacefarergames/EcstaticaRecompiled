@@ -80,8 +80,7 @@ Welcome back to the nightmare.
 
 <img width="1536" height="1024" alt="ECRecomp" src="https://github.com/user-attachments/assets/70384ed3-96af-4945-a27d-887360a16114" />
 
-<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/4ece3d14-54d9-47f7-b96f-46216bd12594" />
-
-
 <img width="1536" height="1024" alt="EC2Recomp" src="https://github.com/user-attachments/assets/075a3032-6f1f-4af8-a826-4bc009e2a5f9" />
+
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/4ece3d14-54d9-47f7-b96f-46216bd12594" />
 
