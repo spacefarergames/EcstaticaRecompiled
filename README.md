@@ -75,3 +75,8 @@ This project exists to preserve that magic — not to change it.
 
 Welcome back to Tirich.
 Welcome back to the nightmare.
+
+<img width="1536" height="1024" alt="ECRecomp" src="https://github.com/user-attachments/assets/70384ed3-96af-4945-a27d-887360a16114" />
+
+<img width="1536" height="1024" alt="EC2Recomp" src="https://github.com/user-attachments/assets/075a3032-6f1f-4af8-a826-4bc009e2a5f9" />
+
